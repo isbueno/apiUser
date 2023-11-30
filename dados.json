@@ -1,0 +1,22 @@
+{
+    "Usuario": [
+        {
+            "id": 1,
+            "nome": "isabely",
+            "data_nascimento": "23/02/2003",
+            "email": "bueno.i@aluno.ifsp.edu.br"
+        },
+        {
+            "id": 2,
+            "nome": "iago",
+            "data_nascimento": "30/05/2020",
+            "email": "iago.h@aluno.ifsp.edu.br"
+        },
+        {
+            "id": 3,
+            "nome": "Nicolas",
+            "data_nascimento": "14/09/2009",
+            "email": "nicolas.b@aluno.ifsp.edu.br"
+        }
+    ]
+}
