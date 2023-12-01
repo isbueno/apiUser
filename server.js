@@ -46,7 +46,6 @@ app.get('/users/:id',(req, res)=>{
 app.post('/users', (req, res) => {
     const user = req.body;
     dados.Usuario.push({ ...user});
-    console.log(user);
     res.json(dados);
 });
 
